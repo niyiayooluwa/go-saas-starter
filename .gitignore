@@ -1,0 +1,6 @@
+.env
+.env.local
+docs/
+*.exe
+/tmp/
+.service/
